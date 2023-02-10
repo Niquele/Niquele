@@ -1,4 +1,4 @@
-### Hi 👋, I'm Niquele and i'm a Data Science student!<br />
+### Hi 👋, I'm Niquele and I'm Data Science student!<br />
 
 🌱 I’m currently learning Python & SQL;<br />
 👨‍💻 All of me are available at https://www.linkedin.com/in/niquelebarbosa;<br />
