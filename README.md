@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python & SQL;
 - 👨‍💻 All of me are available at https://www.linkedin.com/in/niquelebarbosa;
+- 🌱 Projects https://medium.com/@niquelefiga12
 - 📫 How to reach me niquelefiga12@gmail.com.
 -->
