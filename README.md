@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning Python & SQL;<br />
 👨‍💻 All of me are available at https://www.linkedin.com/in/niquelebarbosa;<br />
+🌱 Projects https://medium.com/@niquelefiga12; <br />
 📫 How to reach me niquelefiga12@gmail.com.
 
 <!--
